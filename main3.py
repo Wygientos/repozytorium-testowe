@@ -5,4 +5,4 @@ def nwd(a, b):
         return nwd(b, a%b)
     return a
 def nww(a, b): return a*b//nwd(a, b)
-print 
+print a
