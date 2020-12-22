@@ -7,4 +7,8 @@ def NWD(x, y):
     return x
 x=int(input("X: "))
 y=int(input("Y: "))
-NWD(x,y)
+if(x>0):
+    if(y>0):
+        NWD(x,y)
+    else:
+        input("blad")
