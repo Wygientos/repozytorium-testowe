@@ -1,2 +1,5 @@
-# repozytorium-testowe
-sa
+repozytorium-testowe
+Łukasz Osowski
+147621
+A8
+
